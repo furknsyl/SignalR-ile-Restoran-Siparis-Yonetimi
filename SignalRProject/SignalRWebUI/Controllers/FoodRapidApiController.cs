@@ -15,7 +15,7 @@ namespace SignalRWebUI.Controllers
                 RequestUri = new Uri("https://tasty.p.rapidapi.com/recipes/list?from=0&size=20&tags=under_30_minutes"),
                 Headers =
     {
-        { "x-rapidapi-key", "332e2b5ee1mshed049c538265791p1fb1a6jsnbb3030fd5208" },
+        { "x-rapidapi-key", "your_rapid_api_key" },
         { "x-rapidapi-host", "tasty.p.rapidapi.com" },
     },
             };
