@@ -1,0 +1,11 @@
+C:\Users\SOYLU\source\repos\SignalRProject\SignalR.DtoLayer\bin\Debug\net8.0\SignalR.DtoLayer.deps.json
+C:\Users\SOYLU\source\repos\SignalRProject\SignalR.DtoLayer\bin\Debug\net8.0\SignalR.DtoLayer.dll
+C:\Users\SOYLU\source\repos\SignalRProject\SignalR.DtoLayer\bin\Debug\net8.0\SignalR.DtoLayer.pdb
+C:\Users\SOYLU\source\repos\SignalRProject\SignalR.DtoLayer\obj\Debug\net8.0\SignalR.DtoLayer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SOYLU\source\repos\SignalRProject\SignalR.DtoLayer\obj\Debug\net8.0\SignalR.DtoLayer.AssemblyInfoInputs.cache
+C:\Users\SOYLU\source\repos\SignalRProject\SignalR.DtoLayer\obj\Debug\net8.0\SignalR.DtoLayer.AssemblyInfo.cs
+C:\Users\SOYLU\source\repos\SignalRProject\SignalR.DtoLayer\obj\Debug\net8.0\SignalR.DtoLayer.csproj.CoreCompileInputs.cache
+C:\Users\SOYLU\source\repos\SignalRProject\SignalR.DtoLayer\obj\Debug\net8.0\SignalR.DtoLayer.dll
+C:\Users\SOYLU\source\repos\SignalRProject\SignalR.DtoLayer\obj\Debug\net8.0\refint\SignalR.DtoLayer.dll
+C:\Users\SOYLU\source\repos\SignalRProject\SignalR.DtoLayer\obj\Debug\net8.0\SignalR.DtoLayer.pdb
+C:\Users\SOYLU\source\repos\SignalRProject\SignalR.DtoLayer\obj\Debug\net8.0\ref\SignalR.DtoLayer.dll
